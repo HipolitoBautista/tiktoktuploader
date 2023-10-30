@@ -1,0 +1,32 @@
+{
+  "StunningPlaces": {
+    "cookies": "Cookie file path",
+    "videos": "./Accounts/StunningPlaces/StunningPlaces_Videos",
+    "captions": "./Accounts/StunningPlaces/StunningPlaces_Captions.json",
+    "hashtag": "#travel #fyp #nature #airbnb #hiking #adventure"
+  },
+  "TextsCentral": {
+    "cookies": "Cookie file path",
+    "videos": "./Accounts/TextsCentral/TextsCentral_Videos",
+    "captions": "./Accounts/TextsCentral/TextsCentral_Captions.json",
+    "hashtag": "#qna #fyp #askreddit #redditreadings #texts"
+  },
+  "Cs2SecondChan": {
+    "cookies": "Cookie file path",
+    "videos": "./Accounts/Cs2SecondChan/Cs2SecondChan_Videos",
+    "captions": "./Accounts/Cs2SecondChan/Cs2_SecondChan_Captions.json",
+    "hashtag": "#gaming #cs2 #goated #knife #csgo #caseopening #stream #counterstrike"
+  },
+  "Cs2Goat": {
+    "cookies": "Cookie file path",
+    "videos": "./Accounts/Cs2Goat/Cs2Goats_Videos",
+    "captions": "./Accounts/Cs2Goat/Cs2Goats_Captions.json",
+    "hashtag": "#gaming #cs2 #goated #knife #csgo #caseopening #stream #counterstrike"
+  },
+  "Christmas": {
+    "cookies": "Cookie file path",
+    "videos": "./Accounts/Christmas/Christmas_Videos",
+    "captions": "./Accounts/Christmas/Christmas_Captions.json",
+    "hashtag": "#christmas #joy #newyears #december #snow #hotchocolate"
+  }
+}
